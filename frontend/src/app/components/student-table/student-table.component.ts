@@ -64,3 +64,4 @@ export class StudentTableComponent implements OnInit {
       this.studentData = foundItems;
     }
   }
+}
